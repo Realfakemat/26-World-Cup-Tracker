@@ -1,0 +1,6 @@
+{
+  "name": "World Cup Tracker",
+  "description": "An interactive, playful dashboard to track match scenarios, standngs, and the selected supported team for the 2026 World Cup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
